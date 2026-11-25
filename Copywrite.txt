@@ -1,0 +1,224 @@
+
+# COPYRIGHT NOTICE
+## GameDevPyAI (GDPAI)
+
+**Copyright © 2026 Problox10. All Rights Reserved.**
+
+GameDevPyAI, also known as GDPAI, is a software project created and developed by Problox10.
+
+This document describes the copyright ownership, permitted uses, restrictions, intellectual property notices, and disclaimers associated with GameDevPyAI and its related materials.
+
+---
+
+## 1. Copyright Ownership
+
+Unless otherwise stated, the original content and materials created specifically for GameDevPyAI are protected by applicable copyright laws.
+
+This includes, but is not limited to:
+
+- Original source code.
+- Application design and layout.
+- Original graphical user interface elements.
+- Original documentation.
+- Python reference dictionary content.
+- Original descriptions and explanations.
+- Website content and design.
+- Original branding and project materials.
+- Custom scripts and utilities.
+- Original images and graphics.
+
+The copyright owner of these original materials is:
+
+**Problox10**
+
+Copyright © 2026 Problox10. All Rights Reserved.
+
+---
+
+## 2. Project Identity
+
+**Project Name:** GameDevPyAI
+
+**Abbreviation:** GDPAI
+
+**Creator:** Problox10
+
+**YouTube:** https://www.youtube.com/@Problox10YT
+
+**Contact Emails:**
+- metric.jj@gmail.com
+- shathvik.jj@gmail.com
+
+**GitHub Repository:**  
+https://github.com/shathvik10/GDPAI
+
+**Website:**  
+https://gdpai-website.pages.dev/
+
+---
+
+## 3. Permitted Uses
+
+Unless a separate license or written permission says otherwise, viewing this repository and downloading publicly released files for personal evaluation does not transfer ownership of the project.
+
+You may:
+
+- View publicly available project information.
+- Read the documentation.
+- Explore the source code.
+- Download publicly released versions for personal evaluation.
+- Report bugs and suggest improvements.
+- Share links to the official repository.
+
+These permissions do not grant ownership of the original project or its materials.
+
+---
+
+## 4. Restrictions
+
+Unless explicitly permitted by the applicable license or written authorization from the copyright owner, you may not:
+
+- Claim GameDevPyAI as your own original project.
+- Remove or misrepresent existing copyright notices.
+- Redistribute modified or unmodified copies as your own work.
+- Sell copies of the original project.
+- Repackage the project under another name while claiming authorship.
+- Copy substantial portions of original documentation or other protected materials for commercial redistribution.
+- Use the GDPAI name or branding in a way that falsely suggests official approval or affiliation.
+- Misrepresent yourself as the original creator or developer.
+
+Nothing in this section overrides rights granted by an applicable open-source license or other legal permission.
+
+---
+
+## 5. Modifications and Derivative Works
+
+GameDevPyAI may receive updates, improvements, bug fixes, and additional features over time.
+
+Modifications made by other contributors remain subject to the applicable license and the rights of their respective authors.
+
+Contributing code or other materials does not automatically transfer ownership of those materials to the original project creator.
+
+If you submit a contribution, you are responsible for ensuring that you have the right to submit it.
+
+---
+
+## 6. AI Assistant and External Services
+
+Some versions or features of GameDevPyAI may use artificial intelligence services, APIs, or externally hosted models.
+
+These services may be provided by third-party companies.
+
+GameDevPyAI does not claim ownership of third-party AI models, APIs, services, or their associated intellectual property.
+
+Third-party services are subject to their own terms, privacy policies, and licensing conditions.
+
+AI-generated responses may contain mistakes, incomplete information, or outdated recommendations.
+
+Users should independently review important information and test generated code before using it in a project.
+
+---
+
+## 7. Third-Party Software and Libraries
+
+GameDevPyAI may include, depend on, or interact with third-party software, libraries, packages, frameworks, and services.
+
+Such third-party materials remain the property of their respective owners.
+
+Their use is governed by their individual licenses and terms.
+
+Nothing in this copyright notice is intended to replace or override a third-party license.
+
+Where applicable, third-party license information should be included in the project documentation or distribution.
+
+---
+
+## 8. Trademarks and Branding
+
+The names and branding associated with GameDevPyAI, including:
+
+- GameDevPyAI
+- GDPAI
+- Original GDPAI logos and graphics
+- Original project branding
+
+are associated with this project.
+
+This notice does not claim ownership of generic words, programming languages, technologies, or names belonging to other companies or developers.
+
+Third-party names and trademarks remain the property of their respective owners.
+
+---
+
+## 9. No Warranty
+
+GameDevPyAI is provided on an "AS IS" and "AS AVAILABLE" basis, to the extent permitted by applicable law.
+
+The creator makes no guarantee that:
+
+- The software will operate without errors.
+- Every feature will work on every device.
+- The application will be compatible with every operating system.
+- AI-generated responses will always be accurate.
+- The software will meet every user's individual requirements.
+
+Users are responsible for reviewing and testing software before relying on it.
+
+---
+
+## 10. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the creator shall not be liable for damages arising from the use of, inability to use, or reliance upon GameDevPyAI.
+
+This includes, where legally permitted, loss of data, software errors, service interruptions, and other indirect or consequential damages.
+
+Nothing in this notice excludes liability that cannot legally be excluded.
+
+---
+
+## 11. Updates and Future Releases
+
+GameDevPyAI is an evolving project.
+
+Future releases may introduce:
+
+- New features.
+- Improved AI functionality.
+- Updated Python documentation.
+- Additional development tools.
+- Interface improvements.
+- Bug fixes and performance improvements.
+- Changes to supported platforms.
+
+Copyright notices and applicable licenses may be updated when necessary.
+
+Users should review the documentation and license information associated with each release.
+
+---
+
+## 12. Contact and Permissions
+
+For questions about copyright, project ownership, permissions, contributions, or other legal matters, contact the project creator.
+
+**Creator:** Problox10
+
+**Email:**
+- metric.jj@gmail.com
+- shathvik.jj@gmail.com
+
+**GitHub:**  
+https://github.com/shathvik10/GDPAI
+
+---
+
+## 13. Final Copyright Statement
+
+GameDevPyAI is an independently developed project created to help users explore Python programming and game development.
+
+The original materials created for this project are protected by applicable copyright laws.
+
+Please respect the work, effort, and intellectual property associated with GameDevPyAI.
+
+**Copyright © 2026 Problox10. All Rights Reserved.**
+
+**GameDevPyAI — Learn. Build. Create.**
